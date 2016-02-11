@@ -9,7 +9,7 @@ var sh = require('shelljs');
 var uglify = require('gulp-uglify');
 
 var paths = {
-  sass: ['./scss/**/*.scss'],
+  sass: ['assets/scss/**/*.scss'],
   js:   ['assets/js/*.js']
 };
 
