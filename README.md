@@ -1,5 +1,7 @@
 # ionic-starter-din
 
+Esse é um template starter para projetos mobile da Din Digital utilizando o Ionic Framework.
+
 ## Instalação
 
 1. Instalar as dependênias - run `bower install`
@@ -15,11 +17,9 @@ Ao instalar as dependências, remover o diretorio `fonts/` de `./assets/lib/ioni
 
 ## Links
 
-Utilizar links da seguinte forma:
+Utilizar links absolutos. Exemplo:
 
 ```html
-  #/app/playlists/
-  
-  <!-- Exemplo: -->
+  <!-- Link: #/app/playlists/ -->
   <a href="#/app/playlists/">Playlists</a>
 ```
