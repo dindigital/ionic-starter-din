@@ -1,4 +1,4 @@
-# ionic-din
+# ionic-starter-din
 
 ## Fontes
 
